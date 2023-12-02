@@ -1,7 +1,7 @@
 # Welcome
 
-{% hint style="info" %}
-h
+{% hint style="warning" %}
+AlphaDimention is in early beta.
 {% endhint %}
 
 ## Jump Start
