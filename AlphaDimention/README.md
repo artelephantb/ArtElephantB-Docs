@@ -1,7 +1,7 @@
-# Welcome
+# Getting Started
 
 {% hint style="warning" %}
-AlphaDimention is in early beta.
+AlphaDimention is in early alpha.
 {% endhint %}
 
 ## Jump Start

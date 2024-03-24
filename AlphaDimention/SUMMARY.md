@@ -5,10 +5,11 @@
 ## Usage
 
 * [Commands](usage/commands/README.md)
-  * [Print](usage/commands/print.md)
+  * [🧪 Example Command](usage/commands/example-command.md)
 * [Files](usage/files/README.md)
-  * [Library](usage/files/library.md)
-  * [Code](usage/files/code.md)
+  * [Libraries](usage/files/libraries/README.md)
+    * [Default Library](usage/files/libraries/default-library.md)
+  * [Codes](usage/files/codes.md)
 
 ## Other
 
