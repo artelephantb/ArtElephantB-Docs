@@ -1,3 +1,3 @@
 # Commands
 
-[example-command.md](example-command.md "mention")
+* [example-command.md](example-command.md "mention")
