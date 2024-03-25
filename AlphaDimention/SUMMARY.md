@@ -14,3 +14,4 @@
 ## Other
 
 * [Github](https://github.com/artelephantb/AlphaDimention)
+* [Feedback](other/feedback.md)
