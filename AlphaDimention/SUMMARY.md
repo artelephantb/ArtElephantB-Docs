@@ -13,7 +13,6 @@
 
 ## Other
 
-* [Password](other/password.md)
 * [Feedback](other/feedback.md)
 * [Github](https://github.com/artelephantb/AlphaDimention)
 * [Itch.io](https://harlepengren.itch.io/alphadimention)
