@@ -5,3 +5,7 @@ Position is represented as **pos**. as represented below, using _'x'_ will set t
 ```python
 pos.x(0)
 ```
+
+```python
+pos.y(0)
+```

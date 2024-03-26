@@ -6,6 +6,9 @@
 
 * [Commands](usage/commands/README.md)
   * [Position](usage/commands/position.md)
+  * [Mark](usage/commands/mark.md)
+  * [If](usage/commands/if.md)
+  * [Variable](usage/commands/variable.md)
 * [Files](usage/files/README.md)
   * [Libraries](usage/files/libraries/README.md)
     * [Default Library](usage/files/libraries/default-library.md)
